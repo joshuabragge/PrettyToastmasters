@@ -1,6 +1,6 @@
 # PrettyToastmasters
 Updating graphs for website when toastmasters enter their progress in a shared sheet
 
-![alt tag](https://raw.githubusercontent.com/joshuabragge/PrettyToastmasters/blob/master/documentation/website demo.JPG)
+![alt tag](https://raw.githubusercontent.com/joshuabragge/PrettyToastmasters/blob/master/documentation/websitedemo.JPG)
 
-![Alt text](/documentation/website demo.JPG?raw=true "Optional Title")
+![Alt text](/documentation/websitedemo.JPG?raw=true "Optional Title")
