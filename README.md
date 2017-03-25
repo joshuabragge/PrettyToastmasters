@@ -3,4 +3,4 @@ Updating graphs for website when toastmasters enter their progress in a shared s
 
 ![alt tag](https://raw.githubusercontent.com/joshuabragge/PrettyToastmasters/blob/master/documentation/website demo.JPG)
 
-![Alt text](/master/documentation/website demo.JPG?raw=true "Optional Title")
+![Alt text](/documentation/website demo.JPG?raw=true "Optional Title")
